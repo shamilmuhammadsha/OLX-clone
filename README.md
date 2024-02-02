@@ -20,7 +20,7 @@ List of Features
 User Authentication
 Product Listings
 User Profile
-...
+
 -> Architecture
 
 Frontend Architecture
@@ -29,7 +29,6 @@ Backend Architecture
 Firebase Authentication
 Firebase Firestore Database
 
-...
 -> Database Schema
 
 Users
